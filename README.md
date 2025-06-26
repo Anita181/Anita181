@@ -16,7 +16,7 @@ Actualmente estoy construyendo mi camino en el mundo de la programación con pro
 
 🔹 **Ejercicios Básicos**  
 Programa que analiza un texto y cuenta sus vocales.  
-[Ver en GitHub](https://github.com/TU-USUARIO/NOMBRE-DEL-REPO)](https://github.com/Anita181/Programacion)
+[Ver en GitHub](https://github.com/Anita181/Programacion)
 
 🔹 **Analisis de Datos**  
 Script que limpia texto y cuenta cuántas veces se repite cada palabra.  
