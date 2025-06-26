@@ -28,6 +28,6 @@ Script que limpia texto y cuenta cuántas veces se repite cada palabra.
 [🔗 Portafolio Canva](https://www.canva.com/design/DAGrO3EYtGU/bn2ZW0lnk1PEOqGuFCyaXQ/view?utm_content=DAGrO3EYtGU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbd778ab923)
 
 ## 📫 Contacto
-- 🐙 GitHub: [@tuusuario](https://github.com/anita181)
+- 🐙 GitHub: [@anita181](https://github.com/anita181)
 
 Gracias por visitar mi perfil. Estoy abierta a nuevas oportunidades como programadora junior o colaboradora freelance. 🚀
