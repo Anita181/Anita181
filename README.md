@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👩‍💻 ¡Hola! Soy Any
 
-<!--
-**Anita181/Anita181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy programadora autodidacta especializada en Python. Me encanta automatizar tareas, escribir scripts útiles y aprender resolviendo problemas reales. 💡
 
-Here are some ideas to get you started:
+Actualmente estoy construyendo mi camino en el mundo de la programación con proyectos diarios y constantes mejoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías y herramientas
+
+- 🐍 Python
+- 🧠 Lógica de programación
+- 🗂️ Git y GitHub
+- 📄 Automatización de tareas con texto
+- 🧹 Limpieza básica de datos
+
+## 📁 Proyectos destacados
+
+🔹 **Ejercicios Básicos**  
+Programa que analiza un texto y cuenta sus vocales.  
+[Ver en GitHub](https://github.com/TU-USUARIO/NOMBRE-DEL-REPO)](https://github.com/Anita181/Programacion)
+
+🔹 **Analisis de Datos**  
+Script que limpia texto y cuenta cuántas veces se repite cada palabra.  
+[Ver en GitHub](https://github.com/Anita181/Fase_2_Python)
+
+## 🎨 Mi portafolio visual
+
+📂 Puedes ver mi portafolio completo aquí:  
+[🔗 Portafolio Canva]([https://enlace-a-tu-portafolio](https://www.canva.com/design/DAGrO3EYtGU/bn2ZW0lnk1PEOqGuFCyaXQ/view?utm_content=DAGrO3EYtGU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbd778ab923))
+
+## 📫 Contacto
+- 🐙 GitHub: [@tuusuario](https://github.com/anita181)
+
+Gracias por visitar mi perfil. Estoy abierta a nuevas oportunidades como programadora junior o colaboradora freelance. 🚀
